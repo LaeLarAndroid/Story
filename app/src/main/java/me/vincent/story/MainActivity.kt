@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
 
   //region : Functions to control story flow
 
-  //TODO: Declare loadQuestion function here
+  //TODO: Declare loadStory function here
 
   //TODO: Declare nextStory function here
 
